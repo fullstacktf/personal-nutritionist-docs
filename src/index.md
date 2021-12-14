@@ -3,33 +3,6 @@ title: "Nutriguide Documentation"
 layout: post.njk
 ---
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Nutriguide</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link" href="backend">Backend</a>
-        </li>          
-        <li class="nav-item">
-          <a class="nav-link" href="frontend">Frontend</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="apuntes">Apuntes</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
-
-<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="active"><a href="#">Home</a></li>
-  </ol>
-</nav>
 <div class="container">
   <div class="row align-items-start">
     <div class="col-md-3">
