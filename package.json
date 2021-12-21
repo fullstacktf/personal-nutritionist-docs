@@ -1,0 +1,19 @@
+{
+  "name": "personal-nutritionist-docs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "deploy": "scp -r dist nutriguide-digitalocean:/home/nutriguide-project",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@docsearch/react": "^1.0.0-alpha.28"
+  },
+  "devDependencies": {
+    "astro": "^0.21.12",
+    "@astrojs/renderer-preact": "^0.3.2"
+  }
+}
