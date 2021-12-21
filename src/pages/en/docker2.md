@@ -8,7 +8,7 @@ layout: ../../layouts/MainLayout.astro
 🐳 [Docker documentation](https://docs.docker.com/engine/install/debian/)
 ## 1. 📸 List images
 
-```zsh
+```bash
 docker image ls
 docker images
 ```
